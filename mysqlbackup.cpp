@@ -1,5 +1,5 @@
 /*
-* filenmae:mysqlbake.cpp
+* filenmae:mysqlbackup.cpp
 */
 #include <iostream>
 #include <ctime>
